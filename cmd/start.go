@@ -66,7 +66,9 @@ func (a *Application) ConvertTeamScheduleToCalendar(schedule *nhl.Schedule, titl
 }
 
 func (a *Application) FetchTeamSchedules(ctx context.Context) error {
-	nhlTeamsResponse, err := a.nhlClient.GetTeamsWithResponse(ctx, &nhl.GetTeamsParams{})
+	nhlTeamsResponse, err := a.nhlClient.GetTeamsWithResponse(ctx, &nhl.GetTeamsParams{
+		Expand: (*nhl.GetTeamsParamsExpand)(paramString([]string{"team.schedule.next"})),
+	})
 	if err != nil {
 		log.Printf("error fetching nhl teams, %v", err)
 		return err
