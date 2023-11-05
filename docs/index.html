@@ -50,7 +50,7 @@
             
             <div v-for="(link, index) of resource.URLs" class="row" :data-team="link.Name">
                 <a :href="link.URL" target="_blank">{{link.Name}}</a>
-                <button @click="Copy()">Copy</button>
+                <button @click="Copy(link.URL)">Copy</button>
             </div>
         </div>
         <hr>
@@ -80,13 +80,9 @@
                 }
             },
             methods: {
-                Copy() {
-                    /* Select the text field */
-                    this.$refs.cmd.select();
-                    this.$refs.cmd.setSelectionRange(0, 99999); /* For mobile devices */
-
+                Copy(link) {
                     /* Copy the text inside the text field */
-                    navigator.clipboard.writeText(this.$refs.cmd.value);
+                    navigator.clipboard.writeText(link);
 
                     this.$toast.success('Copied!', { duration: 2000 });
                 }
