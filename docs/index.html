@@ -47,8 +47,9 @@
         <div v-if="isLoading">is loading ...</div>
         <div v-if="resource" class="links">
             {{resource.LastUpdated}}
-            <div v-for="(link, index) of resource.Links">
-                <a :href="link.URL">{{link.Name}}</a>
+            <div v-for="(link, index) of resource.URLs" class="row">
+                <a :href="link.URL" target="_blank">{{link.Name}}</a>
+                <button @click="Copy()">Copy</button>
             </div>
         </div>
         <hr>
@@ -76,6 +77,16 @@
                 }
             },
             methods: {
+                Copy() {
+                    /* Select the text field */
+                    this.$refs.cmd.select();
+                    this.$refs.cmd.setSelectionRange(0, 99999); /* For mobile devices */
+
+                    /* Copy the text inside the text field */
+                    navigator.clipboard.writeText(this.$refs.cmd.value);
+
+                    this.$toast.success('Copied!', { duration: 2000 });
+                }
             }
         })
         app.use(VueToast)
