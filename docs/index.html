@@ -82,7 +82,7 @@
             methods: {
                 Copy(link) {
                     /* Copy the text inside the text field */
-                    navigator.clipboard.writeText(link);
+                    navigator.clipboard.writeText(window.location.origin+link);
 
                     this.$toast.success('Copied!', { duration: 2000 });
                 }
