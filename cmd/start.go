@@ -24,7 +24,7 @@ const (
 	teams       = "teams"
 	seasonStart = "2023-09-01"
 	seasonEnd   = "2024-05-01"
-	distDir     = "./static"
+	distDir     = "./docs"
 	nhlDir      = "nhl"
 )
 
