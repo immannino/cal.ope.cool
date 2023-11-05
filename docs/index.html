@@ -47,7 +47,8 @@
         <div v-if="isLoading">is loading ...</div>
         <div v-if="resource" class="links">
             {{resource.LastUpdated}}
-            <div v-for="(link, index) of resource.URLs" class="row">
+            
+            <div v-for="(link, index) of resource.URLs" class="row" :data-team="link.Name">
                 <a :href="link.URL" target="_blank">{{link.Name}}</a>
                 <button @click="Copy()">Copy</button>
             </div>
@@ -63,7 +64,9 @@
                 return {
                     isLoading: true,
                     resource: null,
-                    resourceKey: '/resources.json'
+                    resourceKey: '/resources.json',
+                    searchString: '',
+                    viewbag: []
                 }
             },
             async mounted() {
@@ -102,6 +105,7 @@
 
         .row > * {
             padding: 0.75rem 0.25rem;
+            margin-top: 1rem;
         }
 
         input {
