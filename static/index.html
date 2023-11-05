@@ -1,0 +1,122 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Site Behavior tags -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Basic site info-->
+    <meta name="title" data-hid="title" content="cal | ope.cool">
+    <meta name="description" data-hid="description" content="cal | ope.cool">
+
+    <!-- Open Graph (Facebook/Linkedin) tags -->
+    <!-- Testing tool: https://developers.facebook.com/tools/debug/ -->
+    <meta property="og:site_name" content="cal | ope.cool">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:url" content="https://cal.ope.cool">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="cal | ope.cool">
+    <meta property="og:description" content="cal | ope.cool">
+    <meta property="og:image" content="">
+
+    <!-- Twitter tags -->
+    <!-- Testing tool: https://cards-dev.twitter.com/validator -->
+    <meta name="twitter:site" content="http://">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="cal | ope.cool">
+    <meta name="twitter:description" content="cal | ope.cool">
+    <meta name="twitter:image" content="">
+    <meta name="twitter:image:alt" content="">
+    <title>Vue Template | spaghet</title>
+    
+    <!-- Inline SVG Emoji Icon -->
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🏒</text></svg>">
+
+    <script src="https://cdn.jsdelivr.net/npm/vue@3"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue-toast-notification@2"></script>
+
+    <link href="https://cdn.jsdelivr.net/npm/vue-toast-notification@2/dist/theme-sugar.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@exampledev/new.css@1.1.2/new.min.css">
+</head>
+<body>
+    <div id="app">
+        <h1>cal.ope.cool</h1>
+        
+        <div v-if="isLoading">is loading ...</div>
+        <div v-if="resource" class="links">
+            {{resource.LastUpdated}}
+            <div v-for="(link, index) of resource.Links">
+                <a :href="link.URL">{{link.Name}}</a>
+            </div>
+        </div>
+        <hr>
+        <p>Make your own! Creating a template helps lower the barrier of entry for getting started.</p>
+        <footer><a href="https://www.spaghet.me">Made by tones 👨🏻</a></footer>
+    </div>
+    <script>
+        const app = Vue.createApp({
+            el: '#app',
+            data() {
+                return {
+                    isLoading: true,
+                    resource: null,
+                    resourceKey: '/resources.json'
+                }
+            },
+            async mounted() {
+                try {
+                    const data = await fetch(this.resourceKey);
+                    this.resource = await data.json();
+                } catch (err) {
+                    console.error(err)
+                } finally {
+                    this.isLoading = false;
+                }
+            },
+            methods: {
+            }
+        })
+        app.use(VueToast)
+        app.mount('#app');
+    </script>
+    <style>
+        .row {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            gap: 10px;
+        }
+
+        .row > * {
+            padding: 0.75rem 0.25rem;
+        }
+
+        input {
+            flex: 1 1 auto;
+            font-family: monospace;
+            margin: 0;
+        }
+
+        button {
+            flex: 0 1 100px;
+        }
+
+        footer {
+            text-align: center;
+        }
+
+        @media screen and (max-width: 650px) {
+            .row {
+                display: block;
+            }
+
+            .row > * {
+                width: 100%;
+                margin: 1rem 0;
+            }
+        }
+    </style>
+</body>
+</html>

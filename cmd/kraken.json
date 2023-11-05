@@ -1,0 +1,5455 @@
+{
+	"copyright": "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2023. All Rights Reserved.",
+	"dates": [
+		{
+			"date": "2023-09-25",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023010022/content"
+					},
+					"gameDate": "2023-09-26T01:00:00Z",
+					"gamePk": 2023010022,
+					"gameType": "PR",
+					"link": "/api/v1/game/2023010022/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Final",
+						"codedGameState": "6",
+						"detailedState": "Final",
+						"startTimeTBD": false,
+						"statusCode": "6"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 0,
+								"ot": 1,
+								"type": "league",
+								"wins": 1
+							},
+							"score": 5,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 1,
+								"ot": 0,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 3,
+							"team": {
+								"id": 20,
+								"link": "/api/v1/teams/20",
+								"name": "Calgary Flames"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/5075",
+						"name": "Scotiabank Saddledome"
+					}
+				},
+				{
+					"content": {
+						"link": "/api/v1/game/2023010024/content"
+					},
+					"gameDate": "2023-09-26T02:00:00Z",
+					"gamePk": 2023010024,
+					"gameType": "PR",
+					"link": "/api/v1/game/2023010024/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Final",
+						"codedGameState": "6",
+						"detailedState": "Final",
+						"startTimeTBD": false,
+						"statusCode": "6"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 1,
+								"ot": 0,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 3,
+							"team": {
+								"id": 20,
+								"link": "/api/v1/teams/20",
+								"name": "Calgary Flames"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 0,
+								"ot": 1,
+								"type": "league",
+								"wins": 1
+							},
+							"score": 2,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 2,
+			"totalItems": 2,
+			"totalMatches": 0
+		},
+		{
+			"date": "2023-09-28",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023010046/content"
+					},
+					"gameDate": "2023-09-29T02:00:00Z",
+					"gamePk": 2023010046,
+					"gameType": "PR",
+					"link": "/api/v1/game/2023010046/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Final",
+						"codedGameState": "6",
+						"detailedState": "Final",
+						"startTimeTBD": false,
+						"statusCode": "6"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 2,
+								"ot": 1,
+								"type": "league",
+								"wins": 0
+							},
+							"score": 1,
+							"team": {
+								"id": 23,
+								"link": "/api/v1/teams/23",
+								"name": "Vancouver Canucks"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 0,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 3,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2023-10-02",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023010075/content"
+					},
+					"gameDate": "2023-10-03T02:00:00Z",
+					"gamePk": 2023010075,
+					"gameType": "PR",
+					"link": "/api/v1/game/2023010075/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Final",
+						"codedGameState": "6",
+						"detailedState": "Final",
+						"startTimeTBD": false,
+						"statusCode": "6"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 2,
+								"ot": 1,
+								"type": "league",
+								"wins": 3
+							},
+							"score": 4,
+							"team": {
+								"id": 22,
+								"link": "/api/v1/teams/22",
+								"name": "Edmonton Oilers"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 1,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 1,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2023-10-04",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023010086/content"
+					},
+					"gameDate": "2023-10-05T02:00:00Z",
+					"gamePk": 2023010086,
+					"gameType": "PR",
+					"link": "/api/v1/game/2023010086/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Final",
+						"codedGameState": "6",
+						"detailedState": "Final",
+						"startTimeTBD": false,
+						"statusCode": "6"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 1,
+								"ot": 1,
+								"type": "league",
+								"wins": 3
+							},
+							"score": 2,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 3,
+								"ot": 1,
+								"type": "league",
+								"wins": 1
+							},
+							"score": 1,
+							"team": {
+								"id": 23,
+								"link": "/api/v1/teams/23",
+								"name": "Vancouver Canucks"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Abbotsford Centre"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2023-10-06",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023010102/content"
+					},
+					"gameDate": "2023-10-07T01:00:00Z",
+					"gamePk": 2023010102,
+					"gameType": "PR",
+					"link": "/api/v1/game/2023010102/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Final",
+						"codedGameState": "6",
+						"detailedState": "Final",
+						"startTimeTBD": false,
+						"statusCode": "6"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 2,
+								"ot": 1,
+								"type": "league",
+								"wins": 3
+							},
+							"score": 1,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 2,
+								"ot": 1,
+								"type": "league",
+								"wins": 5
+							},
+							"score": 3,
+							"team": {
+								"id": 22,
+								"link": "/api/v1/teams/22",
+								"name": "Edmonton Oilers"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/5100",
+						"name": "Rogers Place"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2023-10-10",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020003/content"
+					},
+					"gameDate": "2023-10-11T02:30:00Z",
+					"gamePk": 2023020003,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020003/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Final",
+						"codedGameState": "7",
+						"detailedState": "Final",
+						"startTimeTBD": false,
+						"statusCode": "7"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 1,
+								"ot": 0,
+								"type": "league",
+								"wins": 0
+							},
+							"score": 1,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 0,
+								"ot": 0,
+								"type": "league",
+								"wins": 1
+							},
+							"score": 4,
+							"team": {
+								"id": 54,
+								"link": "/api/v1/teams/54",
+								"name": "Vegas Golden Knights"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/5178",
+						"name": "T-Mobile Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2023-10-12",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020015/content"
+					},
+					"gameDate": "2023-10-13T00:00:00Z",
+					"gamePk": 2023020015,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020015/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Final",
+						"codedGameState": "7",
+						"detailedState": "Final",
+						"startTimeTBD": false,
+						"statusCode": "7"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 2,
+								"ot": 0,
+								"type": "league",
+								"wins": 0
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 1,
+								"ot": 0,
+								"type": "league",
+								"wins": 1
+							},
+							"score": 3,
+							"team": {
+								"id": 18,
+								"link": "/api/v1/teams/18",
+								"name": "Nashville Predators"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/5030",
+						"name": "Bridgestone Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2023-10-14",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020028/content"
+					},
+					"gameDate": "2023-10-15T00:00:00Z",
+					"gamePk": 2023020028,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020028/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Final",
+						"codedGameState": "7",
+						"detailedState": "Final",
+						"startTimeTBD": false,
+						"statusCode": "7"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 2,
+								"ot": 1,
+								"type": "league",
+								"wins": 0
+							},
+							"score": 1,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 0,
+								"ot": 1,
+								"type": "league",
+								"wins": 1
+							},
+							"score": 2,
+							"team": {
+								"id": 19,
+								"link": "/api/v1/teams/19",
+								"name": "St. Louis Blues"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/5076",
+						"name": "Enterprise Center"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2023-10-17",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020046/content"
+					},
+					"gameDate": "2023-10-18T02:00:00Z",
+					"gamePk": 2023020046,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020046/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Final",
+						"codedGameState": "7",
+						"detailedState": "Final",
+						"startTimeTBD": false,
+						"statusCode": "7"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 0,
+								"ot": 0,
+								"type": "league",
+								"wins": 3
+							},
+							"score": 4,
+							"team": {
+								"id": 21,
+								"link": "/api/v1/teams/21",
+								"name": "Colorado Avalanche"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 3,
+								"ot": 1,
+								"type": "league",
+								"wins": 0
+							},
+							"score": 1,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2023-10-19",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020060/content"
+					},
+					"gameDate": "2023-10-20T02:00:00Z",
+					"gamePk": 2023020060,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020060/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Final",
+						"codedGameState": "7",
+						"detailedState": "Final",
+						"startTimeTBD": false,
+						"statusCode": "7"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 2,
+								"ot": 0,
+								"type": "league",
+								"wins": 3
+							},
+							"score": 4,
+							"team": {
+								"id": 12,
+								"link": "/api/v1/teams/12",
+								"name": "Carolina Hurricanes"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 3,
+								"ot": 1,
+								"type": "league",
+								"wins": 1
+							},
+							"score": 7,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2023-10-21",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020078/content"
+					},
+					"gameDate": "2023-10-22T02:00:00Z",
+					"gamePk": 2023020078,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020078/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Final",
+						"codedGameState": "7",
+						"detailedState": "Final",
+						"startTimeTBD": false,
+						"statusCode": "7"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 2,
+								"ot": 0,
+								"type": "league",
+								"wins": 3
+							},
+							"score": 4,
+							"team": {
+								"id": 3,
+								"link": "/api/v1/teams/3",
+								"name": "New York Rangers"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 1
+							},
+							"score": 1,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2023-10-24",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020091/content"
+					},
+					"gameDate": "2023-10-25T00:15:00Z",
+					"gamePk": 2023020091,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020091/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Final",
+						"codedGameState": "7",
+						"detailedState": "Final",
+						"startTimeTBD": false,
+						"statusCode": "7"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 5,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 1,
+								"ot": 1,
+								"type": "league",
+								"wins": 5
+							},
+							"score": 4,
+							"team": {
+								"id": 17,
+								"link": "/api/v1/teams/17",
+								"name": "Detroit Red Wings"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/5145",
+						"name": "Little Caesars Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2023-10-26",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020101/content"
+					},
+					"gameDate": "2023-10-26T23:00:00Z",
+					"gamePk": 2023020101,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020101/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Final",
+						"codedGameState": "7",
+						"detailedState": "Final",
+						"startTimeTBD": false,
+						"statusCode": "7"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 2,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 2,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 0,
+								"type": "league",
+								"wins": 4
+							},
+							"score": 3,
+							"team": {
+								"id": 12,
+								"link": "/api/v1/teams/12",
+								"name": "Carolina Hurricanes"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/5066",
+						"name": "PNC Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2023-10-28",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020118/content"
+					},
+					"gameDate": "2023-10-28T22:00:00Z",
+					"gamePk": 2023020118,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020118/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Final",
+						"codedGameState": "7",
+						"detailedState": "Final",
+						"startTimeTBD": false,
+						"statusCode": "7"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 5,
+								"ot": 2,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 2,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 3,
+								"ot": 0,
+								"type": "league",
+								"wins": 4
+							},
+							"score": 3,
+							"team": {
+								"id": 13,
+								"link": "/api/v1/teams/13",
+								"name": "Florida Panthers"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Amerant Bank Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2023-10-30",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020133/content"
+					},
+					"gameDate": "2023-10-30T23:00:00Z",
+					"gamePk": 2023020133,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020133/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 5,
+								"ot": 2,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 2,
+								"ot": 2,
+								"type": "league",
+								"wins": 4
+							},
+							"score": 0,
+							"team": {
+								"id": 14,
+								"link": "/api/v1/teams/14",
+								"name": "Tampa Bay Lightning"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/5017",
+						"name": "Amalie Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2023-11-02",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020154/content"
+					},
+					"gameDate": "2023-11-03T02:00:00Z",
+					"gamePk": 2023020154,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020154/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 0,
+								"type": "league",
+								"wins": 4
+							},
+							"score": 0,
+							"team": {
+								"id": 18,
+								"link": "/api/v1/teams/18",
+								"name": "Nashville Predators"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 5,
+								"ot": 2,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2023-11-04",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020170/content"
+					},
+					"gameDate": "2023-11-05T02:00:00Z",
+					"gamePk": 2023020170,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020170/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 5,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 20,
+								"link": "/api/v1/teams/20",
+								"name": "Calgary Flames"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 5,
+								"ot": 2,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2023-11-07",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020185/content"
+					},
+					"gameDate": "2023-11-08T02:00:00Z",
+					"gamePk": 2023020185,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020185/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 5,
+								"ot": 2,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 0,
+								"type": "league",
+								"wins": 3
+							},
+							"score": 0,
+							"team": {
+								"id": 53,
+								"link": "/api/v1/teams/53",
+								"name": "Arizona Coyotes"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Mullett Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2023-11-09",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020201/content"
+					},
+					"gameDate": "2023-11-10T02:00:00Z",
+					"gamePk": 2023020201,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020201/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 5,
+								"ot": 2,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 1,
+								"ot": 0,
+								"type": "league",
+								"wins": 6
+							},
+							"score": 0,
+							"team": {
+								"id": 21,
+								"link": "/api/v1/teams/21",
+								"name": "Colorado Avalanche"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/5064",
+						"name": "Ball Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2023-11-11",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020220/content"
+					},
+					"gameDate": "2023-11-12T03:00:00Z",
+					"gamePk": 2023020220,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020220/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 5,
+								"ot": 1,
+								"type": "league",
+								"wins": 1
+							},
+							"score": 0,
+							"team": {
+								"id": 22,
+								"link": "/api/v1/teams/22",
+								"name": "Edmonton Oilers"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 5,
+								"ot": 2,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2023-11-13",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020228/content"
+					},
+					"gameDate": "2023-11-14T03:00:00Z",
+					"gamePk": 2023020228,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020228/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 1,
+								"ot": 0,
+								"type": "league",
+								"wins": 6
+							},
+							"score": 0,
+							"team": {
+								"id": 21,
+								"link": "/api/v1/teams/21",
+								"name": "Colorado Avalanche"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 5,
+								"ot": 2,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2023-11-15",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020239/content"
+					},
+					"gameDate": "2023-11-16T01:30:00Z",
+					"gamePk": 2023020239,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020239/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 5,
+								"ot": 2,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 5,
+								"ot": 1,
+								"type": "league",
+								"wins": 1
+							},
+							"score": 0,
+							"team": {
+								"id": 22,
+								"link": "/api/v1/teams/22",
+								"name": "Edmonton Oilers"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/5100",
+						"name": "Rogers Place"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2023-11-16",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020248/content"
+					},
+					"gameDate": "2023-11-17T03:00:00Z",
+					"gamePk": 2023020248,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020248/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 2,
+								"ot": 1,
+								"type": "league",
+								"wins": 4
+							},
+							"score": 0,
+							"team": {
+								"id": 2,
+								"link": "/api/v1/teams/2",
+								"name": "New York Islanders"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 5,
+								"ot": 2,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2023-11-18",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020265/content"
+					},
+					"gameDate": "2023-11-19T03:00:00Z",
+					"gamePk": 2023020265,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020265/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 5,
+								"ot": 2,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 2,
+								"ot": 1,
+								"type": "league",
+								"wins": 5
+							},
+							"score": 0,
+							"team": {
+								"id": 23,
+								"link": "/api/v1/teams/23",
+								"name": "Vancouver Canucks"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/5073",
+						"name": "Rogers Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2023-11-20",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020277/content"
+					},
+					"gameDate": "2023-11-21T03:00:00Z",
+					"gamePk": 2023020277,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020277/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 20,
+								"link": "/api/v1/teams/20",
+								"name": "Calgary Flames"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2023-11-22",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020292/content"
+					},
+					"gameDate": "2023-11-23T03:00:00Z",
+					"gamePk": 2023020292,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020292/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 5,
+								"ot": 1,
+								"type": "league",
+								"wins": 0
+							},
+							"score": 0,
+							"team": {
+								"id": 28,
+								"link": "/api/v1/teams/28",
+								"name": "San Jose Sharks"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2023-11-24",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020307/content"
+					},
+					"gameDate": "2023-11-25T03:00:00Z",
+					"gamePk": 2023020307,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020307/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 2,
+								"ot": 0,
+								"type": "league",
+								"wins": 4
+							},
+							"score": 0,
+							"team": {
+								"id": 23,
+								"link": "/api/v1/teams/23",
+								"name": "Vancouver Canucks"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2023-11-28",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020333/content"
+					},
+					"gameDate": "2023-11-29T01:30:00Z",
+					"gamePk": 2023020333,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020333/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 5,
+								"ot": 0,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 16,
+								"link": "/api/v1/teams/16",
+								"name": "Chicago Blackhawks"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/5092",
+						"name": "United Center"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2023-11-30",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020346/content"
+					},
+					"gameDate": "2023-12-01T00:00:00Z",
+					"gamePk": 2023020346,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020346/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 2,
+								"ot": 0,
+								"type": "league",
+								"wins": 4
+							},
+							"score": 0,
+							"team": {
+								"id": 10,
+								"link": "/api/v1/teams/10",
+								"name": "Toronto Maple Leafs"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Scotiabank Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2023-12-02",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020362/content"
+					},
+					"gameDate": "2023-12-03T00:00:00Z",
+					"gamePk": 2023020362,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020362/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 3,
+								"ot": 0,
+								"type": "league",
+								"wins": 3
+							},
+							"score": 0,
+							"team": {
+								"id": 9,
+								"link": "/api/v1/teams/9",
+								"name": "Ottawa Senators"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/5031",
+						"name": "Canadian Tire Centre"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2023-12-04",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020376/content"
+					},
+					"gameDate": "2023-12-05T00:30:00Z",
+					"gamePk": 2023020376,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020376/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 2,
+								"ot": 1,
+								"type": "league",
+								"wins": 3
+							},
+							"score": 0,
+							"team": {
+								"id": 8,
+								"link": "/api/v1/teams/8",
+								"name": "Montréal Canadiens"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Centre Bell"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2023-12-07",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020403/content"
+					},
+					"gameDate": "2023-12-08T03:30:00Z",
+					"gamePk": 2023020403,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020403/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 2,
+								"ot": 1,
+								"type": "league",
+								"wins": 3
+							},
+							"score": 0,
+							"team": {
+								"id": 1,
+								"link": "/api/v1/teams/1",
+								"name": "New Jersey Devils"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2023-12-09",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020418/content"
+					},
+					"gameDate": "2023-12-10T03:00:00Z",
+					"gamePk": 2023020418,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020418/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 2,
+								"ot": 2,
+								"type": "league",
+								"wins": 3
+							},
+							"score": 0,
+							"team": {
+								"id": 14,
+								"link": "/api/v1/teams/14",
+								"name": "Tampa Bay Lightning"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2023-12-10",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020426/content"
+					},
+					"gameDate": "2023-12-11T02:00:00Z",
+					"gamePk": 2023020426,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020426/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 2,
+								"ot": 1,
+								"type": "league",
+								"wins": 3
+							},
+							"score": 0,
+							"team": {
+								"id": 30,
+								"link": "/api/v1/teams/30",
+								"name": "Minnesota Wild"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2023-12-12",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020438/content"
+					},
+					"gameDate": "2023-12-13T03:00:00Z",
+					"gamePk": 2023020438,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020438/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 3,
+								"ot": 0,
+								"type": "league",
+								"wins": 3
+							},
+							"score": 0,
+							"team": {
+								"id": 13,
+								"link": "/api/v1/teams/13",
+								"name": "Florida Panthers"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2023-12-14",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020453/content"
+					},
+					"gameDate": "2023-12-15T03:00:00Z",
+					"gamePk": 2023020453,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020453/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 5,
+								"ot": 0,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 16,
+								"link": "/api/v1/teams/16",
+								"name": "Chicago Blackhawks"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2023-12-16",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020473/content"
+					},
+					"gameDate": "2023-12-17T03:00:00Z",
+					"gamePk": 2023020473,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020473/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 2,
+								"ot": 1,
+								"type": "league",
+								"wins": 3
+							},
+							"score": 0,
+							"team": {
+								"id": 26,
+								"link": "/api/v1/teams/26",
+								"name": "Los Angeles Kings"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2023-12-18",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020482/content"
+					},
+					"gameDate": "2023-12-19T01:00:00Z",
+					"gamePk": 2023020482,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020482/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 0,
+								"ot": 1,
+								"type": "league",
+								"wins": 4
+							},
+							"score": 0,
+							"team": {
+								"id": 25,
+								"link": "/api/v1/teams/25",
+								"name": "Dallas Stars"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/5019",
+						"name": "American Airlines Center"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2023-12-20",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020497/content"
+					},
+					"gameDate": "2023-12-21T03:00:00Z",
+					"gamePk": 2023020497,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020497/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 2,
+								"ot": 1,
+								"type": "league",
+								"wins": 3
+							},
+							"score": 0,
+							"team": {
+								"id": 26,
+								"link": "/api/v1/teams/26",
+								"name": "Los Angeles Kings"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Crypto.com Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2023-12-23",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020523/content"
+					},
+					"gameDate": "2023-12-24T01:00:00Z",
+					"gamePk": 2023020523,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020523/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 0,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 24,
+								"link": "/api/v1/teams/24",
+								"name": "Anaheim Ducks"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/5046",
+						"name": "Honda Center"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2023-12-27",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020539/content"
+					},
+					"gameDate": "2023-12-28T02:30:00Z",
+					"gamePk": 2023020539,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020539/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 20,
+								"link": "/api/v1/teams/20",
+								"name": "Calgary Flames"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/5075",
+						"name": "Scotiabank Saddledome"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2023-12-29",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020554/content"
+					},
+					"gameDate": "2023-12-30T03:00:00Z",
+					"gamePk": 2023020554,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020554/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 2,
+								"ot": 1,
+								"type": "league",
+								"wins": 3
+							},
+							"score": 0,
+							"team": {
+								"id": 4,
+								"link": "/api/v1/teams/4",
+								"name": "Philadelphia Flyers"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-01-01",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020573/content"
+					},
+					"gameDate": "2024-01-01T20:00:00Z",
+					"gamePk": 2023020573,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020573/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 0,
+								"ot": 0,
+								"type": "league",
+								"wins": 7
+							},
+							"score": 0,
+							"team": {
+								"id": 54,
+								"link": "/api/v1/teams/54",
+								"name": "Vegas Golden Knights"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "T-Mobile Park"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-01-04",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020598/content"
+					},
+					"gameDate": "2024-01-05T03:00:00Z",
+					"gamePk": 2023020598,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020598/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 3,
+								"ot": 0,
+								"type": "league",
+								"wins": 3
+							},
+							"score": 0,
+							"team": {
+								"id": 9,
+								"link": "/api/v1/teams/9",
+								"name": "Ottawa Senators"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-01-09",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020625/content"
+					},
+					"gameDate": "2024-01-10T00:00:00Z",
+					"gamePk": 2023020625,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020625/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 0,
+								"type": "league",
+								"wins": 3
+							},
+							"score": 0,
+							"team": {
+								"id": 7,
+								"link": "/api/v1/teams/7",
+								"name": "Buffalo Sabres"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/5039",
+						"name": "KeyBank Center"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-01-11",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020645/content"
+					},
+					"gameDate": "2024-01-12T00:00:00Z",
+					"gamePk": 2023020645,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020645/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 3,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 15,
+								"link": "/api/v1/teams/15",
+								"name": "Washington Capitals"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/5094",
+						"name": "Capital One Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-01-13",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020658/content"
+					},
+					"gameDate": "2024-01-14T00:00:00Z",
+					"gamePk": 2023020658,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020658/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 2,
+								"ot": 1,
+								"type": "league",
+								"wins": 3
+							},
+							"score": 0,
+							"team": {
+								"id": 29,
+								"link": "/api/v1/teams/29",
+								"name": "Columbus Blue Jackets"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/5059",
+						"name": "Nationwide Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-01-15",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020677/content"
+					},
+					"gameDate": "2024-01-15T23:00:00Z",
+					"gamePk": 2023020677,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020677/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 0,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 5,
+								"link": "/api/v1/teams/5",
+								"name": "Pittsburgh Penguins"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/5034",
+						"name": "PPG Paints Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-01-16",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020681/content"
+					},
+					"gameDate": "2024-01-17T00:00:00Z",
+					"gamePk": 2023020681,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020681/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 2,
+								"ot": 0,
+								"type": "league",
+								"wins": 4
+							},
+							"score": 0,
+							"team": {
+								"id": 3,
+								"link": "/api/v1/teams/3",
+								"name": "New York Rangers"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/5054",
+						"name": "Madison Square Garden"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-01-18",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020698/content"
+					},
+					"gameDate": "2024-01-19T02:00:00Z",
+					"gamePk": 2023020698,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020698/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 1
+							},
+							"score": 0,
+							"team": {
+								"id": 22,
+								"link": "/api/v1/teams/22",
+								"name": "Edmonton Oilers"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/5100",
+						"name": "Rogers Place"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-01-21",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020723/content"
+					},
+					"gameDate": "2024-01-22T02:00:00Z",
+					"gamePk": 2023020723,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020723/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 2,
+								"ot": 0,
+								"type": "league",
+								"wins": 4
+							},
+							"score": 0,
+							"team": {
+								"id": 10,
+								"link": "/api/v1/teams/10",
+								"name": "Toronto Maple Leafs"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-01-24",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020743/content"
+					},
+					"gameDate": "2024-01-25T03:00:00Z",
+					"gamePk": 2023020743,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020743/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 5,
+								"ot": 0,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 16,
+								"link": "/api/v1/teams/16",
+								"name": "Chicago Blackhawks"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-01-26",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020758/content"
+					},
+					"gameDate": "2024-01-27T03:00:00Z",
+					"gamePk": 2023020758,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020758/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 2,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 19,
+								"link": "/api/v1/teams/19",
+								"name": "St. Louis Blues"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-01-28",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020774/content"
+					},
+					"gameDate": "2024-01-29T02:00:00Z",
+					"gamePk": 2023020774,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020774/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 2,
+								"ot": 1,
+								"type": "league",
+								"wins": 3
+							},
+							"score": 0,
+							"team": {
+								"id": 29,
+								"link": "/api/v1/teams/29",
+								"name": "Columbus Blue Jackets"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-01-30",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020777/content"
+					},
+					"gameDate": "2024-01-31T03:30:00Z",
+					"gamePk": 2023020777,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020777/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 5,
+								"ot": 1,
+								"type": "league",
+								"wins": 0
+							},
+							"score": 0,
+							"team": {
+								"id": 28,
+								"link": "/api/v1/teams/28",
+								"name": "San Jose Sharks"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "SAP Center at San Jose"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-02-10",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020813/content"
+					},
+					"gameDate": "2024-02-11T00:00:00Z",
+					"gamePk": 2023020813,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020813/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 2,
+								"ot": 1,
+								"type": "league",
+								"wins": 3
+							},
+							"score": 0,
+							"team": {
+								"id": 4,
+								"link": "/api/v1/teams/4",
+								"name": "Philadelphia Flyers"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/5096",
+						"name": "Wells Fargo Center"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-02-12",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020819/content"
+					},
+					"gameDate": "2024-02-13T00:00:00Z",
+					"gamePk": 2023020819,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020819/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 2,
+								"ot": 1,
+								"type": "league",
+								"wins": 3
+							},
+							"score": 0,
+							"team": {
+								"id": 1,
+								"link": "/api/v1/teams/1",
+								"name": "New Jersey Devils"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Prudential Center"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-02-13",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020829/content"
+					},
+					"gameDate": "2024-02-14T00:30:00Z",
+					"gamePk": 2023020829,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020829/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 2,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 2,
+								"link": "/api/v1/teams/2",
+								"name": "New York Islanders"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "UBS Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-02-15",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020837/content"
+					},
+					"gameDate": "2024-02-16T00:00:00Z",
+					"gamePk": 2023020837,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020837/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 0,
+								"ot": 0,
+								"type": "league",
+								"wins": 6
+							},
+							"score": 0,
+							"team": {
+								"id": 6,
+								"link": "/api/v1/teams/6",
+								"name": "Boston Bruins"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/5085",
+						"name": "TD Garden"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-02-19",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020870/content"
+					},
+					"gameDate": "2024-02-19T20:30:00Z",
+					"gamePk": 2023020870,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020870/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 1,
+								"ot": 1,
+								"type": "league",
+								"wins": 5
+							},
+							"score": 0,
+							"team": {
+								"id": 17,
+								"link": "/api/v1/teams/17",
+								"name": "Detroit Red Wings"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-02-22",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020897/content"
+					},
+					"gameDate": "2024-02-23T03:00:00Z",
+					"gamePk": 2023020897,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020897/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 2,
+								"ot": 0,
+								"type": "league",
+								"wins": 4
+							},
+							"score": 0,
+							"team": {
+								"id": 23,
+								"link": "/api/v1/teams/23",
+								"name": "Vancouver Canucks"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-02-24",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020913/content"
+					},
+					"gameDate": "2024-02-25T03:00:00Z",
+					"gamePk": 2023020913,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020913/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 2,
+								"ot": 1,
+								"type": "league",
+								"wins": 3
+							},
+							"score": 0,
+							"team": {
+								"id": 30,
+								"link": "/api/v1/teams/30",
+								"name": "Minnesota Wild"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-02-26",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020926/content"
+					},
+					"gameDate": "2024-02-27T03:00:00Z",
+					"gamePk": 2023020926,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020926/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 0,
+								"ot": 0,
+								"type": "league",
+								"wins": 6
+							},
+							"score": 0,
+							"team": {
+								"id": 6,
+								"link": "/api/v1/teams/6",
+								"name": "Boston Bruins"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-02-29",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020950/content"
+					},
+					"gameDate": "2024-03-01T03:00:00Z",
+					"gamePk": 2023020950,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020950/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 0,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 5,
+								"link": "/api/v1/teams/5",
+								"name": "Pittsburgh Penguins"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-03-02",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020958/content"
+					},
+					"gameDate": "2024-03-02T21:00:00Z",
+					"gamePk": 2023020958,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020958/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 1
+							},
+							"score": 0,
+							"team": {
+								"id": 22,
+								"link": "/api/v1/teams/22",
+								"name": "Edmonton Oilers"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-03-04",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020980/content"
+					},
+					"gameDate": "2024-03-05T02:30:00Z",
+					"gamePk": 2023020980,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020980/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 20,
+								"link": "/api/v1/teams/20",
+								"name": "Calgary Flames"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/5075",
+						"name": "Scotiabank Saddledome"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-03-05",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023020986/content"
+					},
+					"gameDate": "2024-03-06T01:00:00Z",
+					"gamePk": 2023020986,
+					"gameType": "R",
+					"link": "/api/v1/game/2023020986/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 3,
+								"ot": 0,
+								"type": "league",
+								"wins": 3
+							},
+							"score": 0,
+							"team": {
+								"id": 52,
+								"link": "/api/v1/teams/52",
+								"name": "Winnipeg Jets"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/5058",
+						"name": "Canada Life Centre"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-03-08",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023021008/content"
+					},
+					"gameDate": "2024-03-09T03:00:00Z",
+					"gamePk": 2023021008,
+					"gameType": "R",
+					"link": "/api/v1/game/2023021008/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 3,
+								"ot": 0,
+								"type": "league",
+								"wins": 3
+							},
+							"score": 0,
+							"team": {
+								"id": 52,
+								"link": "/api/v1/teams/52",
+								"name": "Winnipeg Jets"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-03-12",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023021040/content"
+					},
+					"gameDate": "2024-03-13T02:00:00Z",
+					"gamePk": 2023021040,
+					"gameType": "R",
+					"link": "/api/v1/game/2023021040/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 0,
+								"ot": 0,
+								"type": "league",
+								"wins": 7
+							},
+							"score": 0,
+							"team": {
+								"id": 54,
+								"link": "/api/v1/teams/54",
+								"name": "Vegas Golden Knights"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-03-14",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023021056/content"
+					},
+					"gameDate": "2024-03-15T02:00:00Z",
+					"gamePk": 2023021056,
+					"gameType": "R",
+					"link": "/api/v1/game/2023021056/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 3,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 15,
+								"link": "/api/v1/teams/15",
+								"name": "Washington Capitals"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-03-16",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023021071/content"
+					},
+					"gameDate": "2024-03-17T02:00:00Z",
+					"gamePk": 2023021071,
+					"gameType": "R",
+					"link": "/api/v1/game/2023021071/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 0,
+								"type": "league",
+								"wins": 3
+							},
+							"score": 0,
+							"team": {
+								"id": 18,
+								"link": "/api/v1/teams/18",
+								"name": "Nashville Predators"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-03-18",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023021081/content"
+					},
+					"gameDate": "2024-03-19T02:00:00Z",
+					"gamePk": 2023021081,
+					"gameType": "R",
+					"link": "/api/v1/game/2023021081/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 0,
+								"type": "league",
+								"wins": 3
+							},
+							"score": 0,
+							"team": {
+								"id": 7,
+								"link": "/api/v1/teams/7",
+								"name": "Buffalo Sabres"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-03-21",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023021107/content"
+					},
+					"gameDate": "2024-03-22T02:30:00Z",
+					"gamePk": 2023021107,
+					"gameType": "R",
+					"link": "/api/v1/game/2023021107/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 0,
+								"ot": 0,
+								"type": "league",
+								"wins": 7
+							},
+							"score": 0,
+							"team": {
+								"id": 54,
+								"link": "/api/v1/teams/54",
+								"name": "Vegas Golden Knights"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/5178",
+						"name": "T-Mobile Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-03-22",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023021112/content"
+					},
+					"gameDate": "2024-03-23T02:00:00Z",
+					"gamePk": 2023021112,
+					"gameType": "R",
+					"link": "/api/v1/game/2023021112/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 3,
+								"ot": 0,
+								"type": "league",
+								"wins": 3
+							},
+							"score": 0,
+							"team": {
+								"id": 53,
+								"link": "/api/v1/teams/53",
+								"name": "Arizona Coyotes"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Mullett Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-03-24",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023021133/content"
+					},
+					"gameDate": "2024-03-25T01:00:00Z",
+					"gamePk": 2023021133,
+					"gameType": "R",
+					"link": "/api/v1/game/2023021133/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 2,
+								"ot": 1,
+								"type": "league",
+								"wins": 3
+							},
+							"score": 0,
+							"team": {
+								"id": 8,
+								"link": "/api/v1/teams/8",
+								"name": "Montréal Canadiens"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-03-26",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023021146/content"
+					},
+					"gameDate": "2024-03-27T02:00:00Z",
+					"gamePk": 2023021146,
+					"gameType": "R",
+					"link": "/api/v1/game/2023021146/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 0,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 24,
+								"link": "/api/v1/teams/24",
+								"name": "Anaheim Ducks"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-03-28",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023021162/content"
+					},
+					"gameDate": "2024-03-29T02:00:00Z",
+					"gamePk": 2023021162,
+					"gameType": "R",
+					"link": "/api/v1/game/2023021162/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 0,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 24,
+								"link": "/api/v1/teams/24",
+								"name": "Anaheim Ducks"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-03-30",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023021179/content"
+					},
+					"gameDate": "2024-03-31T02:00:00Z",
+					"gamePk": 2023021179,
+					"gameType": "R",
+					"link": "/api/v1/game/2023021179/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 0,
+								"ot": 1,
+								"type": "league",
+								"wins": 4
+							},
+							"score": 0,
+							"team": {
+								"id": 25,
+								"link": "/api/v1/teams/25",
+								"name": "Dallas Stars"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-04-01",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023021188/content"
+					},
+					"gameDate": "2024-04-02T02:30:00Z",
+					"gamePk": 2023021188,
+					"gameType": "R",
+					"link": "/api/v1/game/2023021188/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 5,
+								"ot": 1,
+								"type": "league",
+								"wins": 0
+							},
+							"score": 0,
+							"team": {
+								"id": 28,
+								"link": "/api/v1/teams/28",
+								"name": "San Jose Sharks"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "SAP Center at San Jose"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-04-03",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023021201/content"
+					},
+					"gameDate": "2024-04-04T01:30:00Z",
+					"gamePk": 2023021201,
+					"gameType": "R",
+					"link": "/api/v1/game/2023021201/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 2,
+								"ot": 1,
+								"type": "league",
+								"wins": 3
+							},
+							"score": 0,
+							"team": {
+								"id": 26,
+								"link": "/api/v1/teams/26",
+								"name": "Los Angeles Kings"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Crypto.com Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-04-05",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023021215/content"
+					},
+					"gameDate": "2024-04-06T02:00:00Z",
+					"gamePk": 2023021215,
+					"gameType": "R",
+					"link": "/api/v1/game/2023021215/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 0,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 24,
+								"link": "/api/v1/teams/24",
+								"name": "Anaheim Ducks"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/5046",
+						"name": "Honda Center"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-04-09",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023021250/content"
+					},
+					"gameDate": "2024-04-10T02:00:00Z",
+					"gamePk": 2023021250,
+					"gameType": "R",
+					"link": "/api/v1/game/2023021250/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 3,
+								"ot": 0,
+								"type": "league",
+								"wins": 3
+							},
+							"score": 0,
+							"team": {
+								"id": 53,
+								"link": "/api/v1/teams/53",
+								"name": "Arizona Coyotes"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-04-11",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023021263/content"
+					},
+					"gameDate": "2024-04-12T02:00:00Z",
+					"gamePk": 2023021263,
+					"gameType": "R",
+					"link": "/api/v1/game/2023021263/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 5,
+								"ot": 1,
+								"type": "league",
+								"wins": 0
+							},
+							"score": 0,
+							"team": {
+								"id": 28,
+								"link": "/api/v1/teams/28",
+								"name": "San Jose Sharks"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/null",
+						"name": "Climate Pledge Arena"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-04-13",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023021271/content"
+					},
+					"gameDate": "2024-04-13T19:00:00Z",
+					"gamePk": 2023021271,
+					"gameType": "R",
+					"link": "/api/v1/game/2023021271/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 0,
+								"ot": 1,
+								"type": "league",
+								"wins": 4
+							},
+							"score": 0,
+							"team": {
+								"id": 25,
+								"link": "/api/v1/teams/25",
+								"name": "Dallas Stars"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/5019",
+						"name": "American Airlines Center"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-04-14",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023021283/content"
+					},
+					"gameDate": "2024-04-14T17:00:00Z",
+					"gamePk": 2023021283,
+					"gameType": "R",
+					"link": "/api/v1/game/2023021283/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 2,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 19,
+								"link": "/api/v1/teams/19",
+								"name": "St. Louis Blues"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/5076",
+						"name": "Enterprise Center"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-04-16",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023021300/content"
+					},
+					"gameDate": "2024-04-17T00:00:00Z",
+					"gamePk": 2023021300,
+					"gameType": "R",
+					"link": "/api/v1/game/2023021300/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 3,
+								"ot": 0,
+								"type": "league",
+								"wins": 3
+							},
+							"score": 0,
+							"team": {
+								"id": 52,
+								"link": "/api/v1/teams/52",
+								"name": "Winnipeg Jets"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/5058",
+						"name": "Canada Life Centre"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		},
+		{
+			"date": "2024-04-18",
+			"events": [],
+			"games": [
+				{
+					"content": {
+						"link": "/api/v1/game/2023021307/content"
+					},
+					"gameDate": "2024-04-18T23:00:00Z",
+					"gamePk": 2023021307,
+					"gameType": "R",
+					"link": "/api/v1/game/2023021307/feed/live",
+					"season": "20232024",
+					"status": {
+						"abstractGameState": "Preview",
+						"codedGameState": "1",
+						"detailedState": "Scheduled",
+						"startTimeTBD": false,
+						"statusCode": "1"
+					},
+					"teams": {
+						"away": {
+							"leagueRecord": {
+								"losses": 4,
+								"ot": 1,
+								"type": "league",
+								"wins": 2
+							},
+							"score": 0,
+							"team": {
+								"id": 55,
+								"link": "/api/v1/teams/55",
+								"name": "Seattle Kraken"
+							}
+						},
+						"home": {
+							"leagueRecord": {
+								"losses": 2,
+								"ot": 1,
+								"type": "league",
+								"wins": 3
+							},
+							"score": 0,
+							"team": {
+								"id": 30,
+								"link": "/api/v1/teams/30",
+								"name": "Minnesota Wild"
+							}
+						}
+					},
+					"venue": {
+						"link": "/api/v1/venues/5098",
+						"name": "Xcel Energy Center"
+					}
+				}
+			],
+			"matches": [],
+			"totalEvents": 0,
+			"totalGames": 1,
+			"totalItems": 1,
+			"totalMatches": 0
+		}
+	],
+	"totalEvents": 0,
+	"totalGames": 88,
+	"totalItems": 88,
+	"totalMatches": 0,
+	"wait": 10
+}
