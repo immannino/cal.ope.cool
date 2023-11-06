@@ -9,7 +9,7 @@
 
     <!-- Basic site info-->
     <meta name="title" data-hid="title" content="cal | ope.cool">
-    <meta name="description" data-hid="description" content="cal | ope.cool">
+    <meta name="description" data-hid="description" content="Never miss a game. Add your favorite team's schedule to your calendar today!">
 
     <!-- Open Graph (Facebook/Linkedin) tags -->
     <!-- Testing tool: https://developers.facebook.com/tools/debug/ -->
@@ -18,15 +18,15 @@
     <meta property="og:url" content="https://cal.ope.cool">
     <meta property="og:type" content="website">
     <meta property="og:title" content="cal | ope.cool">
-    <meta property="og:description" content="cal | ope.cool">
+    <meta property="og:description" content="Never miss a game. Add your favorite team's schedule to your calendar today!">
     <meta property="og:image" content="">
 
     <!-- Twitter tags -->
     <!-- Testing tool: https://cards-dev.twitter.com/validator -->
-    <meta name="twitter:site" content="http://">
+    <meta name="twitter:site" content="https://cal.ope.cool">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="cal | ope.cool">
-    <meta name="twitter:description" content="cal | ope.cool">
+    <meta name="twitter:description" content="Never miss a game. Add your favorite team's schedule to your calendar today!">
     <meta name="twitter:image" content="">
     <meta name="twitter:image:alt" content="">
     <title>cal | ope.cool</title>
@@ -42,19 +42,29 @@
 </head>
 <body>
     <div id="app">
-        <h1>cal.ope.cool</h1>
-        
-        <div v-if="isLoading">is loading ...</div>
-        <div v-if="resource" class="links">
-            {{resource.LastUpdated}}
+        <div>
+            <h1>cal.ope.cool</h1>
             
-            <div v-for="(link, index) of resource.URLs" class="row" :data-team="link.Name">
-                <a :href="link.URL" target="_blank">{{link.Name}}</a>
-                <button @click="Copy(link.URL)">Copy</button>
+        </div>
+        <p>Never miss a game. Add your favorite team's schedule to your calendar today.</p>
+        <div v-if="isLoading">is loading ...</div>
+        <div v-if="resource" class="container">
+            <div class="row">
+                <h3>NHL Schedules</h3>
+                <span>As of {{formatDate(resource.LastUpdated)}}</span>
+            </div>
+            <div>
+                <label for="Search">Search</label>
+                <input type="text" name="Search" id="Search" v-model="searchQuery" @input="filter">
+            </div>
+            <div class="links" ref="links" v-if="filteredSearch">
+                <div v-for="(link, index) of filteredSearch" class="row" :data-team="link.Name" :key="index">
+                    <a :href="link.URL" target="_blank">{{link.Name}}</a>
+                    <button @click="Copy(link.URL)">Copy</button>
+                </div>
             </div>
         </div>
         <hr>
-        <p>Make your own! Creating a template helps lower the barrier of entry for getting started.</p>
         <footer><a href="https://www.spaghet.me">Made by tones 👨🏻</a></footer>
     </div>
     <script>
@@ -65,14 +75,15 @@
                     isLoading: true,
                     resource: null,
                     resourceKey: '/resources.json',
-                    searchString: '',
-                    viewbag: []
+                    searchQuery: '',
+                    filteredSearch: []
                 }
             },
             async mounted() {
                 try {
                     const data = await fetch(this.resourceKey);
                     this.resource = await data.json();
+                    this.filter()
                 } catch (err) {
                     console.error(err)
                 } finally {
@@ -80,11 +91,22 @@
                 }
             },
             methods: {
+                formatDate(d) {
+                    return new Date(d).toLocaleDateString()
+                },
                 Copy(link) {
                     /* Copy the text inside the text field */
                     navigator.clipboard.writeText(window.location.origin+link);
 
                     this.$toast.success('Copied!', { duration: 2000 });
+                },
+                filter() {
+                    if (this.searchQuery.length === 0) {
+                        this.filteredSearch = this.resource.URLs;
+                        return
+                    }
+
+                    this.filteredSearch = this.resource.URLs.filter(e => e.Name.toLowerCase().includes(this.searchQuery.toLowerCase()))
                 }
             }
         })
