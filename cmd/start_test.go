@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"cal.fun/pkg/nhl"
+	"cal.ope.cool/pkg/nhl"
 	"github.com/stretchr/testify/assert"
 )
 

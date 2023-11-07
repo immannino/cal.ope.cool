@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"os"
 
-	"cal.fun/pkg/db/orm"
+	"cal.ope.cool/pkg/db/orm"
 
 	_ "github.com/mattn/go-sqlite3"
 )

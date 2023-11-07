@@ -1,4 +1,4 @@
-module cal.fun
+module cal.ope.cool
 
 go 1.18
 

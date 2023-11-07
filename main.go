@@ -1,7 +1,7 @@
 package main
 
 import (
-	"cal.fun/cmd"
+	"cal.ope.cool/cmd"
 )
 
 func main() {
