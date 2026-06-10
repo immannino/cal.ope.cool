@@ -14,8 +14,8 @@ import (
 	"strings"
 	"time"
 
-	"cal.fun/internal"
-	"cal.fun/pkg/nhl"
+	"cal.ope.cool/internal"
+	"cal.ope.cool/pkg/nhl"
 	"github.com/joho/godotenv"
 	"github.com/oapi-codegen/runtime/types"
 )
@@ -30,6 +30,7 @@ const (
 
 type Application struct {
 	nhlClient  *nhl.ClientWithResponses
+	resources  *internal.ResourceData
 	debug      bool
 	debugDelay time.Duration
 }
@@ -45,11 +46,15 @@ func Start() {
 }
 
 func NewApplication(nhlClient *nhl.ClientWithResponses) *Application {
-	return &Application{nhlClient, false, time.Millisecond * 250}
+	r := &internal.ResourceData{}
+	r.Links = []internal.Link{}
+
+	return &Application{nhlClient: nhlClient, debug: false, debugDelay: time.Millisecond * 250, resources: r}
 }
 
-func (a *Application) ConvertTeamScheduleToCalendar(schedule *nhl.Schedule, title string) *internal.Calendar {
+func (a *Application) ConvertTeamScheduleToCalendar(schedule *nhl.Schedule, title, filename string) *internal.Calendar {
 	c := &internal.Calendar{}
+	c.Filename = filename
 	c.Title = title
 	c.Events = []internal.Event{}
 
@@ -75,8 +80,8 @@ func (a *Application) FetchTeamSchedules(ctx context.Context) error {
 	}
 	log.Print("Fetched NHL Teams")
 
-	r := internal.ResourceData{}
-	r.Links = make([]internal.Link, len(*nhlTeamsResponse.JSON200.Teams))
+	nhlSeason := &internal.Calendar{Title: "2023-2024 NHL Season", Filename: "2023-2024-NHL-Schedule.ics"}
+	nhlSeason.Events = []internal.Event{}
 
 	for i, v := range *nhlTeamsResponse.JSON200.Teams {
 		log.Printf("Processing (%d/%d): Team=%s ID=%d", i+1, len(*nhlTeamsResponse.JSON200.Teams), *v.Name, *v.Id)
@@ -103,27 +108,24 @@ func (a *Application) FetchTeamSchedules(ctx context.Context) error {
 		}
 		log.Printf("Fetched Team Schedule, Team=%s, ID=%s, Games=%d", *v.Name, id, len(*schedule.JSON200.Dates))
 
-		cal := a.ConvertTeamScheduleToCalendar(schedule.JSON200, fmt.Sprintf("2023 %s NHL Season", *v.Name))
-		calICS := cal.ToICS()
-		filename := fmt.Sprintf("%s/%s/Team-Schedule-%s.ics", distDir, nhlDir, *v.ShortName)
-		err = ioutil.WriteFile(filename, []byte(calICS), 0644)
-		if err != nil {
-			log.Printf("error writing ics file, %v", err)
-			return err
-		}
+		cal := a.ConvertTeamScheduleToCalendar(schedule.JSON200, fmt.Sprintf("2023 %s NHL Season", *v.Name), fmt.Sprintf("Team-Schedule-%s.ics", *v.ShortName))
+		// Add events to parent calendar
+		nhlSeason.Events = append(nhlSeason.Events, cal.Events...)
 
-		r.Links[i] = internal.Link{
-			Name:     fmt.Sprintf("%s Team Schedule", *v.Name),
-			URL:      fmt.Sprintf("/%s/Team-Schedule-%s.ics", nhlDir, *v.ShortName),
-			Checksum: fmt.Sprintf("%x", sha256.Sum256([]byte(calICS))),
-		}
+		a.PersistCal(cal)
 
-		log.Printf("Fetched Team Schedule, Team=%s, ID=%s, Filepath=%s", *v.Name, id, filename)
+		log.Printf("Fetched Team Schedule, Team=%s, ID=%s, Filepath=%s", *v.Name, id, cal.Filename)
 		time.Sleep(a.debugDelay)
 	}
 
-	r.LastUpdated = time.Now()
-	b, err := json.Marshal(r)
+	err = a.PersistCal(nhlSeason)
+	if err != nil {
+		log.Printf("error persisting nhlSeason cal, %v", err)
+		return err
+	}
+
+	a.resources.LastUpdated = time.Now()
+	b, err := json.Marshal(a.resources)
 	if err != nil {
 		log.Printf("error marshaling resource file, %v", err)
 		return err
@@ -134,6 +136,23 @@ func (a *Application) FetchTeamSchedules(ctx context.Context) error {
 		log.Printf("error saving resource file, %v", err)
 		return err
 	}
+
+	return nil
+}
+
+func (a *Application) PersistCal(c *internal.Calendar) error {
+	calICS := c.ToICS()
+	err := ioutil.WriteFile(c.Filename, []byte(calICS), 0644)
+	if err != nil {
+		log.Printf("error writing ics file, %v", err)
+		return err
+	}
+
+	a.resources.Links = append(a.resources.Links, internal.Link{
+		Name:     c.Title,
+		URL:      fmt.Sprintf("/%s/%s", nhlDir, c.Filename),
+		Checksum: fmt.Sprintf("%x", sha256.Sum256([]byte(calICS))),
+	})
 
 	return nil
 }

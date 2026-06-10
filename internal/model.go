@@ -18,8 +18,9 @@ type Link struct {
 }
 
 type Calendar struct {
-	Title  string
-	Events []Event
+	Title    string
+	Filename string
+	Events   []Event
 }
 
 func (c *Calendar) ToICS() string {
@@ -32,6 +33,14 @@ func (c *Calendar) ToICS() string {
 	}
 
 	return cal.Serialize()
+}
+
+func (c *Calendar) GetICSEvents() []ics.VEvent {
+	e := make([]ics.VEvent, len(c.Events))
+	for i, v := range c.Events {
+		e[i] = *v.ToISCEvent()
+	}
+	return e
 }
 
 type Event struct {
