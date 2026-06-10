@@ -1,9 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Dating Show Fan//Love Island UK S13 Schedule//EN
+PRODID:-//Dating Show Fan//Love Island UK S13 Complete//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Love Island UK Season 13
+X-WR-CALNAME:Love Island UK Season 13 (Full)
 X-WR-TIMEZONE:Europe/London
 
 BEGIN:VEVENT
@@ -12,7 +12,7 @@ DTSTAMP:20260609T200000Z
 DTSTART:20260601T200000Z
 DTEND:20260601T210000Z
 SUMMARY:Love Island UK S13 - Episode 1
-DESCRIPTION:Season 13 Premiere! 12 sexy singles enter the Mallorcan villa before host Maya Jama drops a shock twist after dark.
+DESCRIPTION:Season 13 Launch Night! Host Maya Jama introduces the first batch of islanders into the Mallorcan villa.
 LOCATION:ITV2 / ITVX
 END:VEVENT
 
@@ -22,7 +22,7 @@ DTSTAMP:20260609T200000Z
 DTSTART:20260602T200000Z
 DTEND:20260602T210000Z
 SUMMARY:Love Island UK S13 - Episode 2
-DESCRIPTION:New bombshells George and Yasmin arrive and immediately kick off their scheming in the villa.
+DESCRIPTION:The first full day in the villa brings immediate drama as early connections form.
 LOCATION:ITV2 / ITVX
 END:VEVENT
 
@@ -32,7 +32,7 @@ DTSTAMP:20260609T200000Z
 DTSTART:20260603T200000Z
 DTEND:20260603T210000Z
 SUMMARY:Love Island UK S13 - Episode 3
-DESCRIPTION:Day 3 in the villa. The fallout from the first couples reshuffle begins to take shape.
+DESCRIPTION:Night 3 in Mallorca. Shifting dynamics shake up the first official pairings.
 LOCATION:ITV2 / ITVX
 END:VEVENT
 
@@ -42,7 +42,7 @@ DTSTAMP:20260609T200000Z
 DTSTART:20260604T200000Z
 DTEND:20260604T210000Z
 SUMMARY:Love Island UK S13 - Episode 4
-DESCRIPTION:The first official challenges of the season arrive to test the early bonds of the islanders.
+DESCRIPTION:The villa gets its first major taste of competition with the opening challenge.
 LOCATION:ITV2 / ITVX
 END:VEVENT
 
@@ -52,7 +52,7 @@ DTSTAMP:20260609T200000Z
 DTSTART:20260605T200000Z
 DTEND:20260605T210000Z
 SUMMARY:Love Island UK S13 - Episode 5
-DESCRIPTION:End of the first week of villa life. Tensions rise as the prospect of the first dumping looms.
+DESCRIPTION:The first week wraps up with growing romantic stakes and tension at the fire pit.
 LOCATION:ITV2 / ITVX
 END:VEVENT
 
@@ -62,7 +62,7 @@ DTSTAMP:20260609T200000Z
 DTSTART:20260606T210000Z
 DTEND:20260606T220000Z
 SUMMARY:Love Island UK S13 - Unseen Bits 1
-DESCRIPTION:Iain Stirling brings you exclusive, unseen hilarious footage from the islanders' explosive opening week.
+DESCRIPTION:Iain Stirling breaks down exclusive, hilarious behind-the-scenes moments from Week 1.
 LOCATION:ITV2 / ITVX
 END:VEVENT
 
@@ -71,8 +71,8 @@ UID:li-s13-ep07@loveisland.tv
 DTSTAMP:20260609T200000Z
 DTSTART:20260607T200000Z
 DTEND:20260607T210000Z
-SUMMARY:Love Island UK S13 - Episode 7
-DESCRIPTION:Day 5 in the villa. A fresh night of drama kicks off Week 2 with new interactions and updates.
+SUMMARY:Love Island UK S13 - Episode 6
+DESCRIPTION:Week 2 kicks off as the islanders adapt to new arrivals and unexpected dates.
 LOCATION:ITV2 / ITVX
 END:VEVENT
 
@@ -81,8 +81,8 @@ UID:li-s13-ep08@loveisland.tv
 DTSTAMP:20260609T200000Z
 DTSTART:20260608T200000Z
 DTEND:20260608T210000Z
-SUMMARY:Love Island UK S13 - Episode 8
-DESCRIPTION:The islanders navigate the shifting dynamics and loyalties as Week 2 picks up steam.
+SUMMARY:Love Island UK S13 - Episode 7
+DESCRIPTION:The fallout from the latest villa arrival sends ripples through the established couples.
 LOCATION:ITV2 / ITVX
 END:VEVENT
 
@@ -91,8 +91,8 @@ UID:li-s13-ep09@loveisland.tv
 DTSTAMP:20260609T200000Z
 DTSTART:20260609T200000Z
 DTEND:20260609T210000Z
-SUMMARY:Love Island UK S13 - Episode 9
-DESCRIPTION:Midweek villa updates. The couplings face their latest tests under the Mallorcan sun.
+SUMMARY:Love Island UK S13 - Episode 8
+DESCRIPTION:Midweek in the villa brings dramatic shifts as a surprise recoupling looms.
 LOCATION:ITV2 / ITVX
 END:VEVENT
 
@@ -101,8 +101,8 @@ UID:li-s13-ep10@loveisland.tv
 DTSTAMP:20260609T200000Z
 DTSTART:20260610T200000Z
 DTEND:20260610T210000Z
-SUMMARY:Love Island UK S13 - Episode 10
-DESCRIPTION:Daily villa updates. Catch up on the latest romance, challenges, and arguments.
+SUMMARY:Love Island UK S13 - Episode 9
+DESCRIPTION:Tensions run high in the villa following a wild night at the fire pit.
 LOCATION:ITV2 / ITVX
 END:VEVENT
 
@@ -112,7 +112,7 @@ DTSTAMP:20260609T200000Z
 DTSTART:20260611T200000Z
 DTEND:20260611T210000Z
 SUMMARY:Love Island UK S13 - Episode 11
-DESCRIPTION:Daily villa updates. Recoupling or dumping warnings typically start shaking up the villa around now.
+DESCRIPTION:Daily villa updates. Early heads are turning as islanders weigh their options.
 LOCATION:ITV2 / ITVX
 END:VEVENT
 
@@ -122,7 +122,7 @@ DTSTAMP:20260609T200000Z
 DTSTART:20260612T200000Z
 DTEND:20260612T210000Z
 SUMMARY:Love Island UK S13 - Episode 12
-DESCRIPTION:Friday night in the villa. The drama peaks heading into the weekend.
+DESCRIPTION:Friday night in Mallorca means relationships are put to the ultimate test.
 LOCATION:ITV2 / ITVX
 END:VEVENT
 
@@ -132,7 +132,7 @@ DTSTAMP:20260609T200000Z
 DTSTART:20260613T210000Z
 DTEND:20260613T220000Z
 SUMMARY:Love Island UK S13 - Unseen Bits 2
-DESCRIPTION:A roundup of the funniest outtakes, secret chats, and hidden moments from Week 2.
+DESCRIPTION:All the top banter and unbroadcasted laughs from the second week in the sun.
 LOCATION:ITV2 / ITVX
 END:VEVENT
 
@@ -141,8 +141,438 @@ UID:li-s13-ep14@loveisland.tv
 DTSTAMP:20260609T200000Z
 DTSTART:20260614T200000Z
 DTEND:20260614T210000Z
+SUMMARY:Love Island UK S13 - Episode 13
+DESCRIPTION:Week 3 starts with major choices facing the islanders as the pressure mounts.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep15@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260615T200000Z
+DTEND:20260615T210000Z
 SUMMARY:Love Island UK S13 - Episode 14
-DESCRIPTION:Sunday night brings a fresh start to Week 3 as the fallout from the previous week's eliminations is revealed.
+DESCRIPTION:Villa drama accelerates as fresh conversations sparks new rivalries.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep16@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260616T200000Z
+DTEND:20260616T210000Z
+SUMMARY:Love Island UK S13 - Episode 15
+DESCRIPTION:Midweek updates from Mallorca. Who is playing a game and who is genuine?
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep17@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260617T200000Z
+DTEND:20260617T210000Z
+SUMMARY:Love Island UK S13 - Episode 16
+DESCRIPTION:A text notification sends shockwaves through the villa changing everything.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep18@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260618T200000Z
+DTEND:20260618T210000Z
+SUMMARY:Love Island UK S13 - Episode 17
+DESCRIPTION:The islanders navigate the bitter aftermath of a brutal dumping twist.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep19@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260619T200000Z
+DTEND:20260619T210000Z
+SUMMARY:Love Island UK S13 - Episode 18
+DESCRIPTION:Friday brings intense conversations as week three draws to a wild close.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep20@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260620T210000Z
+DTEND:20260620T220000Z
+SUMMARY:Love Island UK S13 - Unseen Bits 3
+DESCRIPTION:Catch up on all the secret villa fun and games from the third week.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep21@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260621T200000Z
+DTEND:20260621T210000Z
+SUMMARY:Love Island UK S13 - Episode 19
+DESCRIPTION:Week 4 opens up with couples trying to solidifying their bonds before its too late.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep22@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260622T200000Z
+DTEND:20260622T210000Z
+SUMMARY:Love Island UK S13 - Episode 20
+DESCRIPTION:A spicy new challenge tests the loyalty and limits of the current islanders.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep23@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260623T200000Z
+DTEND:20260623T210000Z
+SUMMARY:Love Island UK S13 - Episode 21
+DESCRIPTION:Halfway through week four and the villa atmosphere is thick with romantic tension.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep24@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260624T200000Z
+DTEND:20260624T210000Z
+SUMMARY:Love Island UK S13 - Episode 22
+DESCRIPTION:New bombshells look to break up the most secure couples in the villa.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep25@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260625T200000Z
+DTEND:20260625T210000Z
+SUMMARY:Love Island UK S13 - Episode 23
+DESCRIPTION:The stakes rise exponentially as the public vote results arrive in Mallorca.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep26@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260626T200000Z
+DTEND:20260626T210000Z
+SUMMARY:Love Island UK S13 - Episode 24
+DESCRIPTION:A highly anticipated Friday night episode shakes up the villa completely.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep27@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260627T210000Z
+DTEND:20260627T220000Z
+SUMMARY:Love Island UK S13 - Unseen Bits 4
+DESCRIPTION:Iain Stirling shows us everything the main show missed from an electric Week 4.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep28@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260628T200000Z
+DTEND:20260628T210000Z
+SUMMARY:Love Island UK S13 - Episode 25
+DESCRIPTION:Welcome to Week 5! The calm before the inevitable storm of Casa Amor begins.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep29@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260629T200000Z
+DTEND:20260629T210000Z
+SUMMARY:Love Island UK S13 - Episode 26
+DESCRIPTION:Loyalties are questioned as the islanders wonder who is truly secure.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep30@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260630T200000Z
+DTEND:20260630T210000Z
+SUMMARY:Love Island UK S13 - Episode 27
+DESCRIPTION:A mid-season evaluation leaves several islanders looking for an exit strategy.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep31@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260701T200000Z
+DTEND:20260701T210000Z
+SUMMARY:Love Island UK S13 - Episode 28
+DESCRIPTION:CASA AMOR BEGINS! The ultimate test of relationships starts tonight.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep32@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260702T200000Z
+DTEND:20260702T210000Z
+SUMMARY:Love Island UK S13 - Episode 29
+DESCRIPTION:The boys and girls split across two villas as a flock of new bombshells arrive.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep33@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260703T200000Z
+DTEND:20260703T210000Z
+SUMMARY:Love Island UK S13 - Episode 30
+DESCRIPTION:Heads are spinning rapidly in Casa Amor as initial connections are abandoned.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep34@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260704T210000Z
+DTEND:20260704T220000Z
+SUMMARY:Love Island UK S13 - Unseen Bits 5
+DESCRIPTION:Unseen antics and hilarious moments from a dramatic Week 5.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep35@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260705T200000Z
+DTEND:20260705T210000Z
+SUMMARY:Love Island UK S13 - Episode 31
+DESCRIPTION:The final night in Casa Amor before the most explosive recoupling of the year.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep36@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260706T200000Z
+DTEND:20260706T210000Z
+SUMMARY:Love Island UK S13 - Episode 32
+DESCRIPTION:THE CASA AMOR RECOUPLING! Decisions are revealed at the fire pit. Tears guaranteed.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep37@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260707T200000Z
+DTEND:20260707T210000Z
+SUMMARY:Love Island UK S13 - Episode 33
+DESCRIPTION:Week 6 begins with the monumental fallout from the Casa Amor recoupling night.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep38@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260708T200000Z
+DTEND:20260708T210000Z
+SUMMARY:Love Island UK S13 - Episode 34
+DESCRIPTION:Awkward confrontations erupt across the villa as past choices catch up to people.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep39@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260709T200000Z
+DTEND:20260709T210000Z
+SUMMARY:Love Island UK S13 - Episode 35
+DESCRIPTION:The islanders work to pick up the pieces and repair fractured alliances.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep40@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260710T200000Z
+DTEND:20260710T210000Z
+SUMMARY:Love Island UK S13 - Episode 36
+DESCRIPTION:A tense Friday night in paradise pushes old and new lovers to the brink.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep41@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260711T210000Z
+DTEND:20260711T220000Z
+SUMMARY:Love Island UK S13 - Unseen Bits 6
+DESCRIPTION:Lighthearted relief with the funniest unused clips from a brutal week six.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep42@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260712T200000Z
+DTEND:20260712T210000Z
+SUMMARY:Love Island UK S13 - Episode 37
+DESCRIPTION:Welcome to Week 7! Movie Night approaches to blow open hidden secrets.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep43@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260713T200000Z
+DTEND:20260713T210000Z
+SUMMARY:Love Island UK S13 - Episode 38
+DESCRIPTION:MOVIE NIGHT ARRIVES. The islanders watch exactly what happened in Casa Amor.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep44@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260714T200000Z
+DTEND:20260714T210000Z
+SUMMARY:Love Island UK S13 - Episode 39
+DESCRIPTION:Absolute chaos rules the villa following the revelations of the movie screen.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep45@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260715T200000Z
+DTEND:20260715T210000Z
+SUMMARY:Love Island UK S13 - Episode 40
+DESCRIPTION:The final bombshells of the season enter to claim any remaining singles.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep46@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260716T200000Z
+DTEND:20260716T210000Z
+SUMMARY:Love Island UK S13 - Episode 41
+DESCRIPTION:A clearing of the air takes place as couples decide whether to stick or twist.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep47@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260717T200000Z
+DTEND:20260717T210000Z
+SUMMARY:Love Island UK S13 - Episode 42
+DESCRIPTION:A massive double dumping is triggered by a sudden public compatibility vote.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep48@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260718T210000Z
+DTEND:20260718T220000Z
+SUMMARY:Love Island UK S13 - Unseen Bits 7
+DESCRIPTION:The penultimate collection of hilarious unbroadcasted content from Mallorca.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep49@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260719T200000Z
+DTEND:20260719T210000Z
+SUMMARY:Love Island UK S13 - Episode 43
+DESCRIPTION:THE FINAL WEEK COMMENCES. The final couples begin their countdown to the finish line.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep50@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260720T200000Z
+DTEND:20260720T210000Z
+SUMMARY:Love Island UK S13 - Episode 44
+DESCRIPTION:The remaining couples face the legendary and challenging baby simulator test.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep51@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260721T200000Z
+DTEND:20260721T210000Z
+SUMMARY:Love Island UK S13 - Episode 45
+DESCRIPTION:The annual Love Island talent show brings out epic skills and chaotic laughs.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep52@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260722T200000Z
+DTEND:20260722T210000Z
+SUMMARY:Love Island UK S13 - Episode 46
+DESCRIPTION:Parents and families enter the villa to meet the partners and give their verdicts.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep53@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260723T200000Z
+DTEND:20260723T210000Z
+SUMMARY:Love Island UK S13 - Episode 47
+DESCRIPTION:The final four couples depart the villa for their incredibly lavish final epic dates.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep54@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260724T200000Z
+DTEND:20260724T210000Z
+SUMMARY:Love Island UK S13 - Episode 48
+DESCRIPTION:The final dumping of the season takes place leaving just the absolute finalists.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep55@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260725T210000Z
+DTEND:20260725T220000Z
+SUMMARY:Love Island UK S13 - Unseen Bits 8
+DESCRIPTION:The final compilation of villa outtakes and silly moments before the finale.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep56@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260726T200000Z
+DTEND:20260726T210000Z
+SUMMARY:Love Island UK S13 - Episode 49
+DESCRIPTION:The final night in the villa. The couples practice their declarations of love.
+LOCATION:ITV2 / ITVX
+END:VEVENT
+
+BEGIN:VEVENT
+UID:li-s13-ep57@loveisland.tv
+DTSTAMP:20260609T200000Z
+DTSTART:20260727T200000Z
+DTEND:20260727T213000Z
+SUMMARY:Love Island UK S13 - THE GRAND FINALE
+DESCRIPTION:The Summer 2026 winners are crowned live by Maya Jama. Who takes home the prize?
 LOCATION:ITV2 / ITVX
 END:VEVENT
 
