@@ -44,13 +44,11 @@
     <div id="app">
         <div>
             <h1>cal.ope.cool</h1>
-
         </div>
-        <p>Never miss a game. Add your favorite team's schedule to your calendar today.</p>
         <div v-if="isLoading">is loading ...</div>
         <div v-if="resource" class="container">
             <div class="row">
-                <h3>NHL Schedules</h3>
+                <h3>Available Calendars</h3>
                 <span>As of {{formatDate(resource.LastUpdated)}}</span>
             </div>
             <div>
